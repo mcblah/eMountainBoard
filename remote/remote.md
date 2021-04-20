@@ -12,3 +12,4 @@ Here are the bases of my remote powered by a 9 volt battery. I don't recommend u
 | STX882 (transmitter) |
 | Opamp for voltage follower |
 
+![remote](https://github.com/jake8796/eMountainBoard/blob/main/remote/remote.jpg)
