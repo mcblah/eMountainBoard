@@ -1,5 +1,6 @@
 # eMountainBoard
-A parts list and build details of my electric mountain board
+A parts list and build details of my electric mountain board.
+## The Parts list
 | Part  | Approx. Cost |
 | ------------- | ------------- |
 | [Flipsky Tire Kit](https://flipsky.net/products/off-road-skateboard-cruiser-extreme-sports-longboard-dual-drive?variant=31301389746311)| $275  |
@@ -11,5 +12,5 @@ A parts list and build details of my electric mountain board
 | [Vanpro Remote](https://www.amazon.com/vanpro-Electric-Skateboard-Wireless-Receiver/dp/B07L498PZR/ref=sr_1_1?dchild=1&keywords=vanpro+skate+remote&qid=1618872689&sr=8-1) | $20 |
 | [Voltage Display](https://www.amazon.com/indicator-Backlight%EF%BC%8CWaterproof-voltmeter-Batteries-Lead-acid/dp/B08BX13TYY/ref=sr_1_20?dchild=1&keywords=battery+voltage+display&qid=1618872813&sr=8-20) | $11 |
 | [Bindings](https://www.mbs.com/parts/14002-mbs-f1-bindings-1-pair) | $25 |
-
-![" "](https://github.com/jake8796/eMountainBoard/blob/main/Images/eMountainBoard.jpg)
+## The Full Build
+![The full build](https://github.com/jake8796/eMountainBoard/blob/main/Images/eMountainBoard.jpg)
