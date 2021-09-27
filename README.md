@@ -6,6 +6,7 @@ A parts list and build details of my electric mountain board.
 | [MBS Matrix II trucks](https://www.mbs.com/parts/12203-mbs-metal-matrix-ii-truck-system)| $200  |
 | [MTB Pro 97 Deck](https://www.mbs.com/parts/11405-mbs-pro-97-deck-dwii) | $200  |
 | 12S4P P42A Molicel Battery Pack| $475 |
+| [Boardnamics M1-AT BN6384 Drivetrain](https://boardnamics.com/product/dual-m1-at-drive-6384-motor-drivetrain/ | $569 |
 | [Option: MakerX DV6 VESC](https://www.makerx-tech.com/collections/x-esc/products/go-foc-dv6-dual-100a-esc-base-on-vesc6) | $200 |
 | [Stormcore 60D+](https://lacroixboards.com/products/stormcore?variant=33698898509956) |$319|
 | [Pelican 1120 Case](https://www.amazon.com/Pelican-1120-Case-Foam-Black/dp/B0051QIBUE) | $30 |
