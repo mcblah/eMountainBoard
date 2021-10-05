@@ -3,13 +3,9 @@ A parts list and build details of my electric mountain board.
 ## The Parts list
 | Part  | Approx. Cost |
 | ------------- | ------------- |
-| [MBS Matrix II trucks](https://www.mbs.com/parts/12203-mbs-metal-matrix-ii-truck-system)| $200  |
-| [MTB Pro 97 Deck](https://www.mbs.com/parts/11405-mbs-pro-97-deck-dwii) | $200  |
-| [MBS FiveStar Hub](https://www.mbs.com/parts/13212-mbs-fivestar-hub-1-black) | $15X4/$60  |
-| [8" MBS T3 Tire/tubes](https://www.mbs.com/parts/13136-8-mbs-roadie-tire-green-1) | $31X4-$124 |
-| [12mm X 28mm Bearings (8)](https://www.mbs.com/parts/13020-12mm-x-28mm-bearings-8-27gd9) | $20  |
+| [MTB Colt Deck](https://www.mbs.com/parts/11405-mbs-pro-97-deck-dwii) | $200  |
+| [All Terrain Tire Kit ](https://flipsky.net/products/off-road-skateboard-cruiser-extreme-sports-longboard-dual-drive?variant=41316500799675) | $277  |
 | 12S4P P42A Molicel Battery Pack| $475 |
-| [Boardnamics M1-AT BN6384 Drivetrain](https://boardnamics.com/product/dual-m1-at-drive-6384-motor-drivetrain) | $569 |
 | [Option: MakerX DV6 VESC](https://www.makerx-tech.com/collections/x-esc/products/go-foc-dv6-dual-100a-esc-base-on-vesc6) | $200 |
 | [Stormcore 60D+](https://lacroixboards.com/products/stormcore?variant=33698898509956) |$319|
 | [Pelican 1120 Case](https://www.amazon.com/Pelican-1120-Case-Foam-Black/dp/B0051QIBUE) | $30 |
