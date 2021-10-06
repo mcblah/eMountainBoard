@@ -3,7 +3,7 @@ A parts list and build details of my electric mountain board.
 ## The Parts list
 | Part  | Approx. Cost |
 | ------------- | ------------- |
-| [MTB Colt Deck](https://www.mbs.com/parts/11405-mbs-pro-97-deck-dwii) | $200  |
+| [MTB Colt Deck](https://www.mbs.com/parts/11405-mbs-pro-97-deck-dwii) | $80  |
 | [All Terrain Tire Kit ](https://flipsky.net/products/off-road-skateboard-cruiser-extreme-sports-longboard-dual-drive?variant=41316500799675) | $277  |
 | 12S4P P42A Molicel Battery Pack| $475 |
 | [Option: MakerX DV6 VESC](https://www.makerx-tech.com/collections/x-esc/products/go-foc-dv6-dual-100a-esc-base-on-vesc6) | $200 |
