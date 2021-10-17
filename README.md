@@ -3,7 +3,7 @@ A parts list and build details of my electric mountain board.
 ## The Parts list
 | Part  | Approx. Cost |
 | ------------- | ------------- |
-| [MTB Pro 97 Deck](https://www.mbs.com/parts/11405-mbs-pro-97-deck-dwii) | $160 - Purchased  |
+| [MBS Pro 97 Deck](https://www.mbs.com/parts/11405-mbs-pro-97-deck-dwii) | $160 - Purchased  |
 | [Stormcore 60D+](https://lacroixboards.com/products/stormcore?variant=33698898509956) |$319 - Purchased |
 | [MBS Matrix II trucks](https://www.mbs.com/parts/12203-mbs-metal-matrix-ii-truck-system)| $200  |
 | [M1-AT BN6384 Drivetrain Kit ](https://boardnamics.com/product/dual-m1-at-drive-6384-motor-drivetrain/) | $499  |
