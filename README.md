@@ -13,7 +13,7 @@ A parts list and build details of my electric mountain board.
 | 12S4P P42A Molicel Battery Pack | $650 - Purchased |
 | [Pelican 1120 Vesc Enclosure](https://www.amazon.com/Pelican-1120-Case-Foam-Black/dp/B0051QIBUE) | $30 |
 | [Pelican 2050 Battery Enclosure](https://www.amazon.com/Waterproof-Case-Pelican-1050-Micro/dp/B001PYL1BM/ref=sr_1_3?dchild=1&keywords=1050%2Bpelican%2Bcase&qid=1611619848&s=electronics&sr=1-3&th=1) | $47 - Purchased |
-| [Hoyt St Nylon Puck](https://www.hoytskate.com/collections/puck-rc/products/hoyt-st-nylon-puck-remote-control) | $114 |
+| [Hoyt St Nylon Puck](https://www.hoytskate.com/collections/puck-rc/products/hoyt-st-nylon-puck-remote-control) | $114 - Purchased |
 | [Metr Pro CAN](https://shop.metr.at/?product=metr-pro-can) | $75 |
 | [Bindings](https://www.mbs.com/parts/14002-mbs-f1-bindings-1-pair) | $25 |
 |**Total Cost**| $2300 |
