@@ -16,6 +16,8 @@ A parts list and build details of my electric mountain board.
 | [Hoyt St Nylon Puck](https://www.hoytskate.com/collections/puck-rc/products/hoyt-st-nylon-puck-remote-control) | $114 - Purchased |
 | [Metr Pro CAN](https://shop.metr.at/?product=metr-pro-can) | $75 |
 | [Bindings](https://www.mbs.com/parts/14002-mbs-f1-bindings-1-pair) | $25 |
+| [Concave Wiring Loom](https://www.nubx3d.com/collections/frontpage/products/concave-wire-loom) | $20 |
+
 |**Total Cost**| $2300 |
 ## The Full Build
 ![The Full Build] TBD
