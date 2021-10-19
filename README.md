@@ -6,7 +6,7 @@ A parts list and build details of my electric mountain board.
 | [MBS Pro 97 Deck](https://www.mbs.com/parts/11405-mbs-pro-97-deck-dwii) | $160 - Purchased  |
 | [Stormcore 60D+](https://lacroixboards.com/products/stormcore?variant=33698898509956) |$319 - Purchased |
 | [MBS Matrix II trucks](https://www.mbs.com/parts/12203-mbs-metal-matrix-ii-truck-system)| $200  |
-| [M1-AT BN6384 Drivetrain Kit - 170kv 5:20 ratio](https://boardnamics.com/product/dual-m1-at-drive-6384-motor-drivetrain/) | $499  |
+| [M1-AT BN6384 Drivetrain Kit - 170kv 5:20 ratio](https://boardnamics.com/product/dual-m1-at-drive-6384-motor-drivetrain/) | $499 - Purchased  |
 | [MBS FiveStar Hub](https://www.mbs.com/parts/13212-mbs-fivestar-hub-1-black) | $60 - Purchased  |
 | [8" MBS T3 Tire/tubes](https://www.mbs.com/parts/13136-8-mbs-roadie-tire-green-1) | $124 - Purchased  |
 | [12mm X 28mm Bearings (8)](https://www.mbs.com/parts/13020-12mm-x-28mm-bearings-8-27gd9) | $31 - Purchased  |
